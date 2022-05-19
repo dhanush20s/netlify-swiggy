@@ -8,7 +8,7 @@ import { actionType } from "../context/reducer"
 import { getAuth, signInWithPopup, GoogleAuthProvider } from "firebase/auth";
 import { app } from "../firebase.config";
 
-import Logo from '../img/logo.png'
+// import Logo from '../img/logo.png'
 import Avatar from '../img/avatar.png'
 
 const Header = () => {
